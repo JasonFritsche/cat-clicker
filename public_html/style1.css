@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(to right, #ff00f2,#dc2fef,#f962c7,#e534b9);
+    font-family: 'Concert One', cursive;
+}
+
+#header1 {
+    width: 95%;
+    background-color:#00edff;
+    padding: 5px;
+    margin: 2px;
+    border: 5px solid #0800af;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 1.4em;
+    color: #a100af;
+    letter-spacing: 8px;
+    
+}
+
+#info {
+    position: fixed;
+}
+
+#cat {
+    width:380px;
+    height:450px;
+    position:relative;
+}
+
+#text {
+   
+    width: 85%;
+    margin-left: 20px;
+}
+
